@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Menu Scenes/TitleScene.unity
+    guid: 845aa1b37babafa4f9625e58813b3f36
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Menu Scenes/HowToScene.unity
+    guid: 1a414e2e3457fc9498cb986a1537beec
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Cut Scenes/Level_1_Cutscene.unity
+    guid: 5ad3e54a0a71a5242997c9bfd3cf6821
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Levels/Level_1.unity
+    guid: c3a1f9beb08ffb34a9ca4271b1b2b293
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Levels/Level_2.unity
+    guid: 2b6f4a57b166a2142be9d4cb31315fe2
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Cut Scenes/Level_2_Cutscene.unity
+    guid: 61786ac039edebb48ad340c83be19eca
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Levels/Level_3.unity
+    guid: 542379a7d4f82444a8cbfd21b3d4ac12
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Levels/Level_4.unity
+    guid: 1e2f70ddb1bd9cf4a830c0c6fe27efab
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Cut Scenes/Level_3_Cutscene.unity
+    guid: 8ae3192caab59a94c8341f8e42225160
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Levels/Level_5.unity
+    guid: d7e82e8a83eeac94c9b5e49b36d1208a
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Levels/Level_6.unity
+    guid: 4970c8f9640b6f7499e3c589fcb8fe7d
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Cut Scenes/Level_4_Cutscene.unity
+    guid: 2e40954b35a258441bdf957191461a36
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Levels/Level_7.unity
+    guid: 6c81d026838e04840b0640d1beaa346d
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Levels/Level_8.unity
+    guid: afbb912c87e58c949a8c83d551e4dfbf
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Cut Scenes/Level_5_Cutscene.unity
+    guid: c9f284dbfdbcf0741ba94756e2bd3fb0
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Levels/Level_9.unity
+    guid: 8be5cdb3237a04f48b3184807f38c53a
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Levels/Level_10.unity
+    guid: 4925cf166b7bea04fa6839c4473cf45f
+  - enabled: 1
+    path: Assets/Scenes/Game Scenes/Menu Scenes/EndScene.unity
+    guid: e9c3ed6ba8476af4fbd601ab28296b8c
